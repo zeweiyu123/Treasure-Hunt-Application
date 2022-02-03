@@ -1,0 +1,8 @@
+#when the order is different and start at center
+M
+5
+###..
+.oo.#
+oo@oo
+ooo..
+$oo..

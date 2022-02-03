@@ -1,0 +1,7 @@
+#when  it is impossible to find treasure
+M
+4
+$#oo
+#.oo
+...#
+o@..
